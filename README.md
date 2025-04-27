@@ -1,4 +1,4 @@
-## Oi eu sou o Rodrigo Marinho👋
+## Oi, eu sou o Rodrigo Marinho👋
 ### Eu sou um estudante de programação, que gosta de fazer sites e sempre buscar conhecimentos novos sobre a área de tecnologia.
 #### Tenho experiência em HTML, CSS, Java, Python e React.
 
